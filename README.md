@@ -16,16 +16,20 @@ Bu projede Youtube'de Erhan Gündüz hocamızın Asp.Net 7.0 ile geliştirdiğim
 
 ---
 
-## 💻 Kullanılan Teknolojiler
+💻 Kullandığım Teknolojiler & Yapılar:
 
-- 🟣 **ASP.NET Core 7.00**
-- 🗂️ **Entity Framework Core**
-- 🔍 **LINQ**
-- 🧩 **Razor Pages / MVC**
-- 🔐 **ASP.NET Identity**
-- 💾 **MongoDB**
-- 🛠️ **Katmanlı Mimari**
-- 📦 **Repository & Service Pattern**
+🟣 ASP.NET Core
+🗂️ Entity Framework Core
+🔍 LINQ
+🧩 MVC & Razor Pages
+🔐 ASP.NET Identity
+🛠️ Katmanlı Mimari
+📦 Repository & Service Pattern
+🗺️ AutoMapper (Mapping)
+🧱 View Components (Modüler Yapı)
+✅ FluentValidation (Validator Kullanımı)
+
+
 
 ---
 
