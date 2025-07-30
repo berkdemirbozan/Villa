@@ -31,4 +31,5 @@ Bu projede Youtube'de Erhan Gündüz hocamızın Asp.Net 7.0 ile geliştirdiğim
 
 ## 📷 Ekran Görüntüleri
 
-> (Buraya proje görsellerini ekleyebilirsin)
+<img width="1266" height="818" alt="Image" src="https://github.com/user-attachments/assets/9296a514-1cf0-43ce-851f-03790966faa3" />
+
