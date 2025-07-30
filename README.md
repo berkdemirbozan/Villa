@@ -1,18 +1,18 @@
-# 🏡 Villa Projem Yayında!
+# 🏡 Villa Satış ve Yönetim Sistemi
 
-Yazılım geliştirme yolculuğumda bir adım daha!  
-Bu projede Youtube'de Erhan Gündüz hocamızın Asp.Net 7.0 ile geliştirdiğim Villa Projesini sizlerle paylaşmaktan mutluluk duyuyorum.
+Her yeni proje, yazılım yolculuğumda hem kendimi sınadığım hem de gelişimime katkı sağladığım önemli bir adımdır.
+Bu doğrultuda, Erhan Gündüz hocamızın rehberliğinde, ASP.NET 7.0 ile geliştirdiğim Villa Satış ve Yönetim Sistemi projemi tamamladım. Gerçek hayat senaryolarına uyarladığım bu projeyi sizlerle paylaşmak benim için büyük bir heyecan ve gurur kaynağı.
 
 ---
 
 ## 🚀 Proje Özellikleri
 
-- ✅ Villa ekleme, güncelleme, silme
-- ✅ Admin paneli üzerinden tam kontrol
-- ✅ Kullanıcı girişi ve kimlik doğrulama (Identity)
-- ✅ Dinamik anasayfa bileşenleri
-- ✅ Katmanlı mimari yapısı
-- ✅ Repository & Service pattern kullanımı
+-  Villa ekleme, güncelleme, silme
+-  Admin paneli üzerinden tam kontrol
+-  Kullanıcı girişi ve kimlik doğrulama (Identity)
+-  Dinamik anasayfa bileşenleri
+-  Katmanlı mimari yapısı
+-  Repository & Service pattern kullanımı
 
 ---
 
