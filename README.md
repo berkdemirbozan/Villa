@@ -19,14 +19,23 @@ Bu projede Youtube'de Erhan Gündüz hocamızın Asp.Net 7.0 ile geliştirdiğim
 💻 Kullandığım Teknolojiler & Yapılar:
 
 🟣 ASP.NET Core
+
 🗂️ Entity Framework Core
+
 🔍 LINQ
+
 🧩 MVC & Razor Pages
+
 🔐 ASP.NET Identity
+
 🛠️ Katmanlı Mimari
+
 📦 Repository & Service Pattern
+
 🗺️ AutoMapper (Mapping)
+
 🧱 View Components (Modüler Yapı)
+
 ✅ FluentValidation (Validator Kullanımı)
 
 
