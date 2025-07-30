@@ -54,3 +54,4 @@ Bu doğrultuda, Erhan Gündüz hocamızın rehberliğinde, ASP.NET 7.0 ile geli�
 <img width="1812" height="818" alt="Image" src="https://github.com/user-attachments/assets/074936df-48f4-4113-8124-b5e77ad3a5c8" />
 <img width="1832" height="847" alt="Image" src="https://github.com/user-attachments/assets/850fc0fc-c4ac-4c40-86af-9490fa541541" />
 <img width="1766" height="818" alt="Image" src="https://github.com/user-attachments/assets/c95c2f45-ec32-4d32-8039-3a1291cbaea0" />
+<img width="1394" height="813" alt="Image" src="https://github.com/user-attachments/assets/b28ff52a-58d1-4d79-9720-23769d93569c" />
