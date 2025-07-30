@@ -1,4 +1,4 @@
-# 🏡 Villa Projem Yayında
+# 🏡 Villa Projem Yayında!
 
 Yazılım geliştirme yolculuğumda bir adım daha!  
 Bu projede Youtube'de Erhan Gündüz hocamızın Asp.Net 7.0 ile geliştirdiğim Villa Projesini sizlerle paylaşmaktan mutluluk duyuyorum.
