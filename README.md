@@ -38,7 +38,7 @@ Bu doğrultuda, Erhan Gündüz hocamızın rehberliğinde, ASP.NET 7.0 ile geli�
 
 ✅ FluentValidation (Validator Kullanımı)
 
-
+🧑‍💼 Admin Paneli
 
 ---
 
